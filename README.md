@@ -1,4 +1,4 @@
-# MaUNet
+# MamUNet
 vmamba and cnn in remote sensing imgaes segment
 
 Paper and code to be released soon 😏😏😏
